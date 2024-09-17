@@ -35,6 +35,10 @@ CARA INSTALL KALI LINUX
 ![IMG_3435 2](https://github.com/user-attachments/assets/9a9a6df6-4674-4460-bb3e-18bc4dcfe459)
 
 12. Configurate locales
+![WhatsApp Image 2024-09-17 at 15 57 57](https://github.com/user-attachments/assets/d3967687-4708-4fcd-8da0-c4e2da23cbc0)
+
 13. configurate the keyboard
+![WhatsApp Image 2024-09-17 at 15 57 57 (1)](https://github.com/user-attachments/assets/90f5f1e0-8aaa-4ef5-97ec-f5ae3f98769e)
+
 14. 
 
